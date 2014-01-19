@@ -1,4 +1,7 @@
-fakturace
+Fakturace
 =========
 
-Invoice manager
+Invoice manager software
+
+(source code will appear soon)
+
